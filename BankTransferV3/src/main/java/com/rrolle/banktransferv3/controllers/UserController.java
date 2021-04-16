@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * User controller that acts as the servlet.
- * @author jrice
+ * @author rrolle
  */
 @WebServlet(
   name = "UserController", 
